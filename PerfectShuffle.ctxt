@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PerfectShuffle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=deck
+comment2.target=void\ inShuffle(int[])
+comment3.params=value
+comment3.target=java.lang.String\ cardName(int)
+numComments=4
